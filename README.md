@@ -1,7 +1,7 @@
 # RAG
 A basic RAG implementation locally using Ollama. A utf8 text file is parsed and embeddings from its text are created and saved in a json file. Then embeddings of the prompt text are created and then both embeddings are compared using normality and most similar is printed. Prompt is taken as an input through CLI.
 
-## Give a star ```U+1F33B``` to help Boost my Confidence.
+## Give a star ```🌟``` to help Boost my Confidence.
 
 # Reading Assistant Using OLLama for Text Chatting
 
