@@ -7,9 +7,8 @@ A basic RAG implementation locally using Ollama. A utf8 text file is parsed and 
 ## Table of Contents
 1. [Setup](#setup)
 2. [Functions Description](#functions_description)
-3. [Example Usage](#example-usage)
-4. [Contributing](#contributing)
-5. [License](#license)
+3. [Contributing](#contributing)
+
 
 <hr>
 
