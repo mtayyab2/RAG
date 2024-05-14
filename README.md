@@ -39,6 +39,9 @@ ollama run phi3
 ```
 <hr>
 
+The first time embeddings will take a lot of time, once created and saved in a json file, it will be fast in response. 
+PS it also depends on your system.
+
 This code comprises several key functions designed for working with text data, specifically focusing on
 calculating text similarity through OLLama's embedditations API. These functions are integral parts of a system
 that processes files, retrieves and saves text embeddings, computes similarity scores between texts, and organizes
